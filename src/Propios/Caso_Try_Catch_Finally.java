@@ -5,7 +5,7 @@ Es cierto que la aplicación ha fallado y revienta,
 Pero también es cierto que la cláusula finally se ejecuta y cierra los recursos que están abiertos.
 Y, era el objetivo de este ejemplo
  */
-public class CasoFinally {
+public class Caso_Try_Catch_Finally {
 
     public static void main(String[] args) {
 

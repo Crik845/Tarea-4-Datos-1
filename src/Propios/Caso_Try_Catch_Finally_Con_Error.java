@@ -3,7 +3,7 @@ package Propios;
 A continuación vamos a ver cómo se comporta un programa con tratamiento de errores
 cuando se produce un error y cómo afecta al control de flujo del programa.
  */
-public class ProgramaFinallyConError {
+public class Caso_Try_Catch_Finally_Con_Error {
 
     public static void main (String [] args)     {
 

@@ -4,7 +4,7 @@ package Propios;
 A continuación vamos a ver cómo se comporta un programa con tratamiento de errores pero
 donde no se produce ningún error.
  */
-public class ProgramaFinallySinError {
+public class Caso_Try_Catch_Finally_Sin_Error {
 
     public static void main (String [] args)     {
 
